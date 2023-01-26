@@ -31,7 +31,7 @@ public class Main {
         SingleResponsibility single = new SingleResponsibility();
         System.out.println(" ");
         System.out.println("******* Single Responsibility  *******");
-        System.out.println("  ");
+        System.out.println("   ");
         single.ejecutar();
     }
 }
